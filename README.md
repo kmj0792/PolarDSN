@@ -1,6 +1,6 @@
 # PolarDSN: An Inductive Approach to Learning the Evolution of Network Polarization in Dynamic Signed Networks
 
-![ex_screenshot](./img/overview.png)
+![git_overview](https://github.com/user-attachments/assets/5962613d-ddca-4f50-92ed-cbb8b69e2d89)
 
 This repository provides a reference implementation of TrustSGCN as described in the following paper "[PolarDSN: An Inductive Approach to Learning the Evolution of Network Polarization in Dynamic Signed Networks](https://doi.org/10.1145/3627673.3679654)", published at CIKM 2024 (full paper). (33rd ACM International Conference on Information and Knowledge Management (ACM CIKM 2024))
 
