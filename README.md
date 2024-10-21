@@ -59,18 +59,11 @@ python main.py --data=epinions --bs=64 --lr=0.001 --n_degree=32 --n_layer=2 --tr
 ```
 
 ## Requirements
-The code has been tested running under Python 3.7.4. The required packages are as follows:
-- ```dgl==0.4.1```
-- ```tqdm==4.64.0```
-- ```numpy==1.16.4```
-- ```pandas==0.25.0```
-- ```tqdm==4.64.0```
-- ```scipy==1.3.0```
-- ```scikit-learn==0.21.2```  
-- ```torch-geometric==2.2.0```
-- ```torch-scatter==2.1.0+pt112cu116```
-- ```torch-sparse==0.6.16+pt112cu116```
-- ```conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.6 -c pytorch -c conda-forge```
+The experiments ran on NVIDIA RTX A6000 GPUs with 48GB memory and 256GB RAM, using Pytorch 2.0.1 on Ubuntu 22.04 OS. 
+The required packages are as follows:
+  ```
+  
+  ```
 
 ## Cite
   ```
