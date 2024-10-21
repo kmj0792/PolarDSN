@@ -11,7 +11,7 @@ This repository provides a reference implementation of PolarDSN as described in 
 
 ## Inputs
 The input dataset should be saved in ```./DynamicData/weight/``` folder. 
-<img src = "https://github.com/user-attachments/assets/88e73895-37e3-4bd2-85e7-e95fe095f955" width="50" height="20">
+<img src = "https://github.com/user-attachments/assets/88e73895-37e3-4bd2-85e7-e95fe095f955" width="200" height="100">
 
 The structure of the input dataset is the following: ```| node_id1 | node_id2 timestamp | label(=sign) | weight | idx |```
 
