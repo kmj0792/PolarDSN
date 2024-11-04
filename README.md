@@ -61,13 +61,25 @@ python main.py --data=epinions --bs=64 --lr=0.001 --n_degree=32 --n_layer=2 --tr
 ## Requirements
 The experiments ran on NVIDIA RTX A6000 GPUs with 48GB memory and 256GB RAM, using Pytorch 2.0.1 on Ubuntu 22.04 OS. 
 The required packages are as follows:
-  ```
-  
-  ```
+- ```tqdm==4.65.0```
+- ```numpy==1.24.3```   
+- ```pandas==2.0.3```
+- ```numba==0.57.1```
+- ```wandb==0.15.10```
+- ```python==3.8.18```
+- ```pytorch==2.0.1```
+- ```pytorch-scatter==2.1.1```
+
 
 ## Cite
   ```
-  
+  @inproceedings{kim2024polardsn,
+  title={PolarDSN: An Inductive Approach to Learning the Evolution of Network Polarization in Dynamic Signed Networks},
+  author={Kim, Min-Jeong and Lee, Yeon-Chang and Kim, Sang-Wook},
+  booktitle={Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
+  pages={1099--1109},
+  year={2024}
+}
   ```
 
 
