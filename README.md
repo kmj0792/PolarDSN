@@ -12,8 +12,8 @@ This repository provides a reference implementation of PolarDSN as described in 
 ## Inputs
 The input dataset should be saved in ```./DynamicData/weight/``` folder. 
 
-
-<img src = "https://github.com/user-attachments/assets/88e73895-37e3-4bd2-85e7-e95fe095f955" width="500" height="200">
+Table 2: The ‘pos. ratio’ denotes the ratio of positive edges among all edges; and ‘weight’ denotes the scale of the edge weights, if present in the dataset.
+<img src = "https://github.com/user-attachments/assets/ca18507b-c120-44db-86a6-1d9caed4a9ba" width="500" height="200">
 
 The structure of the input dataset is the following: ```| node_id1 | node_id2 timestamp | label(=sign) | weight | idx |```
 
