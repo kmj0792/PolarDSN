@@ -16,7 +16,7 @@ Table 2: The ‘pos. ratio’ denotes the ratio of positive edges among all edge
 
 <img src = "https://github.com/user-attachments/assets/ca18507b-c120-44db-86a6-1d9caed4a9ba" width="600" height="150">
 
-The structure of the input dataset is the following: ```| node_id1 | node_id2 timestamp | label(=sign) | weight | idx |```
+The structure of the input dataset is the following: ```| node_id1 | node_id2 timestamp | label (= sign) | weight | idx |```.
 
 Node ids start from 1 to |*V*| (*V* is the set of nodes in the dataset).
 
