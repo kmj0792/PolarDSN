@@ -41,7 +41,7 @@ The accuracies of PolarDSN are saved in ```./PolarDSN/log``` folder.
 ```
 
 ## Usage
-To run SVD-AE on different datasets, use the following commands:
+To run PolarDSN on different datasets, use the following commands:
 
 + For Bitcoin-alpha:
 ```
